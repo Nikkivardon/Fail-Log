@@ -1,23 +1,15 @@
 # Week 1 fail log
-This first week has been a bit difficult. While I was able to follow the instructions and create the three accounts, it seemed to take me quite a while.   
+This first week has been a bit difficult. While I was able to follow the instructions and create the three accounts, it seemed to take me quite a while to get used to so many new programs.  
 
 ## First Annotation
-My [first annotation](https://hyp.is/kVL5clh7EemcYK_k_itFTg/workbook.craftingdigitalhistory.ca/introduction/crafting-digital-history/) was about my confusion setting up the DH Box account. I did not pay attention to the sign-up and accidentally chose the 24 account time frame instead of the month long account. Unfortunately, I only realized this after I couldn't login to my account anymore. I had some files in my DH Box account already which I have since lost.
-
-This exerperience taught me to pay attention to every step of the sign-up process also that I should download my file/work as well as copy a list of my commands (I learned that I can do this by typing ``ls`` into the terminal!)
+My [first annotation] (https://hyp.is/VQh2CnUDEemIWheYzpbd2Q/site.craftingdigitalhistory.ca/rubric-and-assessment.html) was about the weekly reflections through blog posts. I was not sure where, how or what format to complete these in. I was able to contact a classmate through hypothesis who directed me to a blog post that helped me start up a webpage through github.
 
 ## Second Annotation
-My [second annotation](https://hyp.is/1cuQqlh7Eem3qVOpwa1E0Q/workbook.craftingdigitalhistory.ca/introduction/crafting-digital-history/) kind of connects to my first one. I forgot my password at the end of the week and noticed that DH Box doesn't have a 'forgot password' retrieval option. Thankfully, I had learned from the experience of my first annotation and documented my workflow/downloaded my files I had in the DH Box. 
-
-Perhaps, then, this is a great place to discuss the realities of some open access software. I realized that a feature like password retrieval is standard for many websites because they are actively maintained and you have one account forever. When you use open access software, you can be working in a precarious digital world.
+My [second annotation](https://hyp.is/kOzPoHUWEemMsHuZ4WAPtA/site.craftingdigitalhistory.ca/tldr.html)has to do with connecting to the team via slack. I could not get access to this at all. I eventually realized you have to ask the host of the group for access. I will try to ask the professor. 
 
 ## Third Annotation
-My [third annotation](https://hyp.is/P-j0AFh8EemYXn9Z1Pmgww/workbook.craftingdigitalhistory.ca/introduction/crafting-digital-history/) was a case of me learning about where I download/install programs and plugins. When I created my Hypothesis account, I downloaded the plugin for Google Chrome. Later, I went onto the course workbook and tried to annotate, but I couldn't find the Hypothesis button. After searching for a while I realized that I was using the Safari browser. I switched back to Chrome and was able to annotate.
+My [third annotation](https://hyp.is/f-kBPnX7EemjFLcBvaEu7w/www.cambridge.org/core/books/history-manifesto/big-questions-big-data/F60D7E21EFBD018F5410FB315FBA4590) This is one of my first annotations in a reading. I really enjoyed using hypothesis as I do my readings. Interacting with the community and  my peers while also sharing my ideas as a student is a useful feature. Learning to use technology in this way fosters a great learning and collaboration environment. 
 
-This experience taught me about paying attention to where I install software and that these plugins are browser specific. 
 
 ## Comments/Concerns
-
-Overall, this week went well. It seemed daunting at first, but I soon realized that everyone makes mistakes, especially when they are learning new skills, using new software, etc. **Making mistakes is part of the process and necessary to learn.**
-
-I am a bit concerned about diving into GitHub next week, but I see there are instruction videos which I imagine will help a lot!
+All in all I am surprised by how much I've learned this week. I am also excited to dive into learning how to use github it seems like a useful tool. 
